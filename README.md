@@ -10,7 +10,7 @@ I like building web apps end to end: from the interface in the browser to the AP
 ![Skills](https://skillicons.dev/icons?i=ts,html,css,nodejs,java,py,postgres,sqlite,mongodb,git,docker)
 
 - **Languages:** TypeScript, Java, Python, HTML/CSS, SQL
-- **Frontend:** HTML, CSS, TypeScript (compiled with `tsc`), responsive layouts
+- **Frontend:** HTML, CSS, TypeScript (compiled with `tsc`), responsive layouts, React (learning)
 - **Backend:** Node.js, REST APIs, Django (basics)
 - **Databases:** PostgreSQL, SQLite, MongoDB / Mongoose (basics)
 - **Tools & DevOps:** Git & GitHub, Docker, Docker Compose, VS Code
@@ -33,13 +33,13 @@ I like building web apps end to end: from the interface in the browser to the AP
 ## 🎓 Education
 
 **B.Sc. Media Informatics**, Berliner Hochschule für Technik (BHT), since 10/2024 · expected graduation 2027
-Coursework: web engineering (TypeScript, Node.js, MongoDB), web programming with Python (Django), software engineering, databases, computer graphics
+Coursework: web engineering (TypeScript, React, Node.js, MongoDB), web programming with Python (Django), software engineering, databases, computer graphics
 
 ## 🌱 Currently
 
 - Building Uhmless 
 - Deepening TypeScript and backend development 
-- Learning Django, Python
+- Learning React and Django
 - Solving LeetCode problems in Python and TypeScript
 
 ## 🌍 Languages
