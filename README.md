@@ -56,18 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
-</p>
-<p align="center">
-  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit languages" />
-</p>
-
----
-
 ## 🌍 Languages
 
 🇩🇪 German (native) · 🇬🇧 English (fluent) · 🇹🇷 Turkish (basic) · 🇫🇷 French (basic)
@@ -78,6 +66,6 @@
 
 <p>
   <a href="mailto:nisancisinan8@icloud.com"><img src="https://img.shields.io/badge/Email-nisancisinan8%40icloud.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/sinan-nisanci-932/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[https://www.linkedin.com/in/sinan-nisanci-932/](https://www.linkedin.com/in/sinan-nisanci-932a8a3a4/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/sinan-nis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
