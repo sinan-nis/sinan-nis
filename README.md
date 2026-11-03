@@ -16,6 +16,11 @@ I like building web apps end to end: from the interface in the browser to the AP
 - **Tools & DevOps:** Git & GitHub, Docker, Docker Compose, VS Code
 - **Desktop:** JavaFX
 
+<p align="left">
+  <img height="170" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
+  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" />
+</p>
+
 ## 📌 Projects
 
 - **[Fiber Optic Survey Web App](https://github.com/sinan-nis/fiber-survey-app):** freelance project for a construction company. Web app for recording fiber optic installation measurements digitally instead of on paper, generating PDFs, Excel reports and invoices. TypeScript, Node.js, SQLite, Docker
