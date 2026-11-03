@@ -27,7 +27,7 @@ I like building web apps end to end: from the interface in the browser to the AP
 - **Uhmless:** web app for practicing impromptu speaking. Random topic, 3 minutes of talking, then an analysis of filler words, speaking pace and clarity. TypeScript, Node.js, MediaRecorder API, speech-to-text, LLM-based analysis *(work in progress)*
 - **Appointment Calendar App:** desktop app for managing appointments with a graphical interface in Java/JavaFX
 - **[Ray Tracer](https://github.com/sinan-nis/java-ray-tracer):** recursive ray tracer from scratch in Java: Phong shading, shadows, glass & metal materials, anti-aliasing
-- **[LeetCode](https://github.com/sinan-nis/LeetCode):** algorithms and data structures in Python *(ongoing)*
+- **[LeetCode](https://github.com/sinan-nis/LeetCode):** algorithms and data structures in Python and TypeScript *(ongoing)*
 
 ## 🎓 Education
 
@@ -39,7 +39,7 @@ Coursework: web engineering (TypeScript, Node.js, MongoDB), web programming with
 - Building Uhmless 
 - Deepening TypeScript and backend development 
 - Learning Django, Python
-- Solving LeetCode problems in Python
+- Solving LeetCode problems in Python and TypeScript
 
 ## 🌍 Languages
 
