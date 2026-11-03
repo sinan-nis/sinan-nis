@@ -21,7 +21,7 @@ I like building web apps end to end: from the interface in the browser to the AP
 - **Fiber Optic Survey Web App:** freelance project for a construction company. Web app for recording fiber optic installation measurements digitally instead of on paper. HTML/CSS, JavaScript, Node.js, SQLite, Docker Compose
 - **Uhmless:** web app for practicing impromptu speaking. Random topic, 3 minutes of talking, then an analysis of filler words, speaking pace and clarity. TypeScript, Node.js, MediaRecorder API, speech-to-text, LLM-based analysis *(work in progress)*
 - **Appointment Calendar App:** desktop app for managing appointments with a graphical interface in Java/JavaFX
-- **Ray Tracer:** ray tracing from scratch in Java: lighting, shadows and reflections
+- **[Ray Tracer](https://github.com/sinan-nis/java-ray-tracer):** recursive ray tracer from scratch in Java: Phong shading, shadows, glass & metal materials, anti-aliasing
 - **[LeetCode](https://github.com/sinan-nis/LeetCode):** algorithms and data structures in Python *(ongoing)*
 
 ## 🎓 Education
