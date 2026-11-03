@@ -3,7 +3,7 @@ name: Profile summary cards
 on:
   push:
     branches: [main]
-    paths-ignore: ["profile-summary-card-output/**"]
+    paths-ignore: ["profile-summary-card-output/**", "stats/**"]
   schedule:
     - cron: "17 3 * * *" # daily update
   workflow_dispatch:
@@ -21,3 +21,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+      - name: LeetCode language card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git pull --rebase
+          node .github/scripts/leetcode-languages.mjs
+          git config user.name "profile-stats"
+          git config user.email "profile-stats@example.com"
+          git add stats
+          git diff --cached --quiet || (git commit -m "Update LeetCode language card" && git push)

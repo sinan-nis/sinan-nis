@@ -19,6 +19,7 @@ I like building web apps end to end: from the interface in the browser to the AP
 <p align="left">
   <img height="170" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
   <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" />
+  <img height="170" src="./stats/leetcode-languages.svg" alt="LeetCode languages" />
 </p>
 
 ## 📌 Projects
