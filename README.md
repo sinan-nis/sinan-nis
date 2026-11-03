@@ -1,27 +1,27 @@
-<h1 align="center">Hi, ich bin Sinan 👋</h1>
-<h3 align="center">Medieninformatik-Student @ BHT Berlin · angehender Software Engineer</h3>
+<h1 align="center">Hi, I'm Sinan 👋</h1>
+<h3 align="center">Media Informatics Student @ BHT Berlin · Aspiring Software Engineer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Berlin-Germany-blue?style=flat-square" alt="Berlin" />
-  <img src="https://img.shields.io/badge/B.Sc.-Medieninformatik-informational?style=flat-square" alt="Medieninformatik" />
-  <img src="https://img.shields.io/badge/Offen%20f%C3%BCr-Werkstudentenjobs-success?style=flat-square" alt="Offen für Werkstudentenjobs" />
+  <img src="https://img.shields.io/badge/B.Sc.-Media%20Informatics-informational?style=flat-square" alt="Media Informatics" />
+  <img src="https://img.shields.io/badge/Open%20to-Working%20Student%20Roles-success?style=flat-square" alt="Open to working student roles" />
 </p>
 
 ---
 
-## 🚀 Über mich
+## 🚀 About Me
 
-- 🎓 Ich studiere **Medieninformatik (B.Sc.)** an der Berliner Hochschule für Technik (voraussichtlicher Abschluss 2027)
-- 💻 Mein Fokus: **Webentwicklung**, **Backend** und **Automatisierung von Arbeitsabläufen**
-- 🌱 Gerade lerne ich **TypeScript** und **Python** vertieft
-- 🔍 Ich suche einen **Werkstudentenjob** in Berlin (Webentwicklung, AI & Automation)
-- ♟️ Abseits vom Code: Schach, Lesen, Fußball, Boxen und Fitness
+- 🎓 Studying **Media Informatics (B.Sc.)** at Berliner Hochschule für Technik (expected graduation: 2027)
+- 💻 Focus: **web development**, **backend** and **workflow automation**
+- 🌱 Currently deepening my skills in **TypeScript** and **Python**
+- 🔍 Looking for a **working student position** in Berlin (web development, AI & automation)
+- ♟️ Away from the keyboard: chess, reading, football, boxing and fitness
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Sprachen**
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,7 +30,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Datenbanken**
+**Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -45,35 +45,35 @@
 
 ---
 
-## 📂 Projekte
+## 📂 Projects
 
-| Projekt | Beschreibung | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| **Glasfaser-Aufmaß Web-App** | Freelance-Projekt für die XQ Construction GmbH: Web-App zur digitalen Erfassung von Glasfaser-Aufmaßen, ersetzt manuelle Dokumentation | HTML/CSS, JavaScript, Node.js, SQLite, Docker Compose |
-| **Uhmless** *(in Entwicklung)* | Web-App zum Üben von freiem Sprechen: zufälliges Thema, 3 Minuten reden, danach Analyse von Füllwörtern, Sprechtempo und Klarheit | Web, Speech-to-Text, KI-Analyse |
-| **Terminkalender-App** | Desktop-App zur Verwaltung von Terminen mit grafischer Oberfläche | Java, JavaFX |
-| **Raytracer** | Raytracing-Implementierung aus dem Studium: Lichtberechnung, Schatten und Reflexionen von Grund auf | Java |
+| **Fiber Optic Survey Web App** | Freelance project for XQ Construction GmbH: a web app for digitally recording fiber optic installation measurements, replacing manual paperwork | HTML/CSS, JavaScript, Node.js, SQLite, Docker Compose |
+| **Uhmless** *(in development)* | A web app for practicing impromptu speaking: get a random topic, talk for 3 minutes, then receive an analysis of filler words, speaking pace and clarity | HTML/CSS, TypeScript, Node.js, MediaRecorder API (audio recording), Speech-to-Text API (transcription incl. filler words), LLM API (speech analysis) |
+| **Appointment Calendar App** | Desktop app for managing appointments with a graphical user interface | Java, JavaFX |
+| **Ray Tracer** | Ray tracing implementation built from scratch during my studies: lighting, shadows and reflections | Java |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sinan-nis&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinan-nis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🌍 Sprachen
+## 🌍 Languages
 
-🇩🇪 Deutsch (Muttersprache) · 🇬🇧 Englisch (fließend) · 🇹🇷 Türkisch (Grundkenntnisse) · 🇫🇷 Französisch (Grundkenntnisse)
+🇩🇪 German (native) · 🇬🇧 English (fluent) · 🇹🇷 Turkish (basic) · 🇫🇷 French (basic)
 
 ---
 
-## 📫 Kontakt
+## 📫 Contact
 
 <p>
-  <a href="mailto:nisancisinan8@icloud.com"><img src="https://img.shields.io/badge/E--Mail-nisancisinan8%40icloud.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-Mail" /></a>
-  <a href="https://www.linkedin.com/in/DEIN_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nisancisinan8@icloud.com"><img src="https://img.shields.io/badge/Email-nisancisinan8%40icloud.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sinan-nisanci-932"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
