@@ -7,7 +7,7 @@ I like building web apps end to end: from the interface in the browser to the AP
 
 ## 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=ts,html,css,nodejs,java,py,postgres,sqlite,mongodb,git,docker,vscode)
+![Skills](https://skillicons.dev/icons?i=ts,html,css,nodejs,java,py,postgres,sqlite,mongodb,git,docker)
 
 - **Languages:** TypeScript, Java, Python, HTML/CSS, SQL
 - **Frontend:** HTML, CSS, TypeScript (compiled with `tsc`), responsive layouts
